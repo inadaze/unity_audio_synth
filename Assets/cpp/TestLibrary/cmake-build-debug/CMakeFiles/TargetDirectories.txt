@@ -1,0 +1,3 @@
+/Users/jasons/Desktop/ConsoleApp1/cpp/TestLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jasons/Desktop/ConsoleApp1/cpp/TestLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jasons/Desktop/ConsoleApp1/cpp/TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir
