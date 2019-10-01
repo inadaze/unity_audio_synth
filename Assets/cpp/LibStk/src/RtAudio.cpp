@@ -77,7 +77,7 @@ const unsigned int RtApi::SAMPLE_RATES[] = {
     return s;
   }
 
-#elif defined(__LINUX_ALSA__) || defined(__LINUX_PULSE__) || defined(__UNIX_JACK__) || defined(__LINUX_OSS__) || defined(__MACOSX_CORE__)
+#elif defined(__LINUX_ALSA__) || defined(__LINUX_PULSE__) || defined(__UNIX_JACK__) || defined(__LINUX_OSS__) || __APPLE__
   // pthread API
   #define MUTEX_INITIALIZE(A) pthread_mutex_init(A, NULL)
   #define MUTEX_DESTROY(A)    pthread_mutex_destroy(A)
@@ -141,7 +141,7 @@ extern "C" const RtAudio::Api rtaudio_compiled_apis[] = {
 #if defined(__WINDOWS_DS__)
   RtAudio::WINDOWS_DS,
 #endif
-#if defined(__MACOSX_CORE__)
+#if __APPLE__
   RtAudio::MACOSX_CORE,
 #endif
 #if defined(__RTAUDIO_DUMMY__)
@@ -224,7 +224,7 @@ void RtAudio :: openRtApi( RtAudio::Api api )
   if ( api == WINDOWS_DS )
     rtapi_ = new RtApiDs();
 #endif
-#if defined(__MACOSX_CORE__)
+#if __APPLE__
   if ( api == MACOSX_CORE )
     rtapi_ = new RtApiCore();
 #endif
@@ -504,7 +504,7 @@ unsigned int RtApi :: getStreamSampleRate( void )
 //
 // *************************************************** //
 
-#if defined(__MACOSX_CORE__)
+#if __APPLE__
 
 // The OS X CoreAudio API is designed to use a separate callback
 // procedure for each of its audio devices.  A single RtAudio duplex

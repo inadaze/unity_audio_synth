@@ -26,6 +26,7 @@
 
 #include "InetWvIn.h"
 #include <sstream>
+#include <sys/select.h>
 
 namespace stk {
 

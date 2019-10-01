@@ -3,7 +3,7 @@
 
 #include "Stk.h"
 
-#if (defined(__OS_IRIX__) || defined(__OS_LINUX__) || defined(__OS_MACOSX__))
+#if __sgi || __linux__ || __APPLE__
 
   #include <pthread.h>
   #define THREAD_TYPE

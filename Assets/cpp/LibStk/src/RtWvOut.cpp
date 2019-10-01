@@ -211,3 +211,16 @@ void RtWvOut :: tick( const StkFrames& frames )
 }
 
 } // stk namespace
+
+stk::RtWvOut* DacFactory() {
+    stk::RtWvOut *dac = 0;
+    try {
+        // Define and open the default realtime output device for one-channel playback
+        dac = new stk::RtWvOut(1);
+    }
+    catch (stk::StkError &) {
+        exit(1);
+    }
+
+    return dac;
+}

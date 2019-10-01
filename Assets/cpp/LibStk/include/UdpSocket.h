@@ -1,6 +1,7 @@
 #ifndef STK_UDPSOCKET_H
 #define STK_UDPSOCKET_H
 
+#include <netinet/in.h>
 #include "Socket.h"
 
 namespace stk {

@@ -23,6 +23,9 @@
 */
 /***************************************************/
 
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
 #include "TcpServer.h"
 
 namespace stk {

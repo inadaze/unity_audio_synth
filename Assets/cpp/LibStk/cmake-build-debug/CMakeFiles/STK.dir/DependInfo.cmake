@@ -1,0 +1,116 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/ADSR.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/ADSR.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Asymp.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Asymp.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BandedWG.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BandedWG.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BeeThree.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BeeThree.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BiQuad.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BiQuad.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Blit.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Blit.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlitSaw.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BlitSaw.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlitSquare.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BlitSquare.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlowBotl.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BlowBotl.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlowHole.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/BlowHole.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Bowed.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Bowed.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Brass.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Brass.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Chorus.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Chorus.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Clarinet.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Clarinet.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Delay.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Delay.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/DelayA.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/DelayA.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/DelayL.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/DelayL.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Drummer.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Drummer.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Echo.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Echo.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Envelope.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Envelope.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FM.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FM.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FMVoices.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FMVoices.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileLoop.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FileLoop.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileRead.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FileRead.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileWrite.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FileWrite.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileWvIn.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FileWvIn.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileWvOut.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FileWvOut.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Fir.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Fir.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Flute.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Flute.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FormSwep.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FormSwep.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FreeVerb.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/FreeVerb.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Granulate.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Granulate.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Guitar.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Guitar.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/HevyMetl.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/HevyMetl.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Iir.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Iir.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/InetWvIn.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/InetWvIn.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/InetWvOut.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/InetWvOut.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/JCRev.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/JCRev.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/LentPitShift.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/LentPitShift.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Mandolin.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Mandolin.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Mesh2D.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Mesh2D.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Messager.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Messager.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/MidiFileIn.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/MidiFileIn.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Modal.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Modal.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/ModalBar.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/ModalBar.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Modulate.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Modulate.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Moog.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Moog.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Mutex.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Mutex.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/NRev.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/NRev.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Noise.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Noise.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/OnePole.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/OnePole.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/OneZero.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/OneZero.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PRCRev.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/PRCRev.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PercFlut.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/PercFlut.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Phonemes.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Phonemes.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PitShift.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/PitShift.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Plucked.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Plucked.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PoleZero.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/PoleZero.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Recorder.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Recorder.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Resonate.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Resonate.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Rhodey.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Rhodey.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtAudio.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/RtAudio.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtMidi.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/RtMidi.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtWvIn.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/RtWvIn.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtWvOut.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/RtWvOut.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Sampler.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Sampler.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Saxofony.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Saxofony.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Shakers.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Shakers.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Simple.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Simple.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/SineWave.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/SineWave.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/SingWave.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/SingWave.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Sitar.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Sitar.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Skini.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Skini.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Socket.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Socket.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Sphere.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Sphere.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/StifKarp.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/StifKarp.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Stk.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Stk.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TapDelay.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/TapDelay.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TcpClient.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/TcpClient.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TcpServer.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/TcpServer.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Thread.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Thread.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TubeBell.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/TubeBell.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Twang.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Twang.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TwoPole.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/TwoPole.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TwoZero.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/TwoZero.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/UdpSocket.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/UdpSocket.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/VoicForm.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/VoicForm.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Voicer.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Voicer.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Whistle.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Whistle.cpp.o"
+  "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Wurley.cpp" "/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/CMakeFiles/STK.dir/src/Wurley.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "STK_EXPORTS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../include"
+  "../src/include"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

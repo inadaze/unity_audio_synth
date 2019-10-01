@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # Tcl/Tk Demo GUI for the Synthesis Toolkit (STK)
 # by Gary P. Scavone, CCRMA, CAML, Stanford & McGill Universities, 1995--2019.
 

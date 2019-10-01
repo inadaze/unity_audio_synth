@@ -628,7 +628,7 @@ class RTAUDIO_DLL_PUBLIC RtAudio
   typedef uintptr_t ThreadHandle;
   typedef CRITICAL_SECTION StreamMutex;
 
-#elif defined(__LINUX_ALSA__) || defined(__LINUX_PULSE__) || defined(__UNIX_JACK__) || defined(__LINUX_OSS__) || defined(__MACOSX_CORE__)
+#elif __sgi || __linux__ || __APPLE__
   // Using pthread library for various flavors of unix.
   #include <pthread.h>
 
@@ -885,7 +885,7 @@ inline void RtAudio :: showWarnings( bool value ) { rtapi_->showWarnings( value 
 
 // RtApi Subclass prototypes.
 
-#if defined(__MACOSX_CORE__)
+#if __APPLE__
 
 #include <CoreAudio/AudioHardware.h>
 

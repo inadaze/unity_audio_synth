@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_unity_audio_synth.-136557506.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="cpp" t="Include">
+          <e p="LibStk" t="Include">
+            <e p="cmake-build-debug" t="Include">
+              <e p="CMakeCache.txt" t="Include" />
+              <e p="CMakeFiles" t="Include">
+                <e p="clion-environment.txt" t="Include" />
+                <e p="clion-log.txt" t="Include" />
+                <e p="STK.dir" t="Include">
+                  <e p="link.txt" t="Include" />
+                </e>
+                <e p="TargetDirectories.txt" t="Include" />
+              </e>
+            </e>
+            <e p="CMakeLists.txt" t="Include" />
+            <e p="doc" t="Include">
+              <e p="doxygen" t="Include">
+                <e p="classes.txt" t="Include" />
+                <e p="compile.txt" t="Include" />
+                <e p="control.txt" t="Include" />
+                <e p="crealtime.txt" t="Include" />
+                <e p="download.txt" t="Include" />
+                <e p="faq.txt" t="Include" />
+                <e p="filtering.txt" t="Include" />
+                <e p="fundamentals.txt" t="Include" />
+                <e p="hello.txt" t="Include" />
+                <e p="index.txt" t="Include" />
+                <e p="information.txt" t="Include" />
+                <e p="instruments.txt" t="Include" />
+                <e p="links.txt" t="Include" />
+                <e p="maillist.txt" t="Include" />
+                <e p="multichannel.txt" t="Include" />
+                <e p="polyvoices.txt" t="Include" />
+                <e p="realtime.txt" t="Include" />
+                <e p="skini.txt" t="Include" />
+                <e p="system.txt" t="Include" />
+                <e p="tutorial.txt" t="Include" />
+                <e p="usage.txt" t="Include" />
+              </e>
+              <e p="hierarchy.txt" t="Include" />
+              <e p="README-Linux.txt" t="Include" />
+              <e p="README-MacOSX.txt" t="Include" />
+              <e p="README-SGI.txt" t="Include" />
+              <e p="README-Win.txt" t="Include" />
+              <e p="ReleaseNotes.txt" t="Include" />
+              <e p="skini.txt" t="Include" />
+            </e>
+            <e p="projects" t="Include">
+              <e p="effects" t="Include">
+                <e p="README-effects.txt" t="Include" />
+              </e>
+              <e p="eguitar" t="Include">
+                <e p="README-eguitar.txt" t="Include" />
+              </e>
+              <e p="ragamatic" t="Include">
+                <e p="README-raga.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="StartSynth.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="unity_audio_synth.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -26,6 +26,10 @@
 #include "TcpClient.h"
 #include <cstring>
 #include <sstream>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netinet/tcp.h>
+#include <netdb.h>
 
 namespace stk {
 

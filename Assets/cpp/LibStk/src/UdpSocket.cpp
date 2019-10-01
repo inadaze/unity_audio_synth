@@ -24,6 +24,7 @@
 #include "UdpSocket.h"
 #include <cstring>
 #include <sstream>
+#include <netdb.h>
 
 namespace stk {
 

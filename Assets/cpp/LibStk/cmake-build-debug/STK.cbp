@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="STK"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="STK">
+				<Option output="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/libSTK.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/include"/>
+					<Add directory="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 STK"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="STK/fast">
+				<Option output="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/libSTK.dylib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/include"/>
+					<Add directory="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 STK/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/ADSR.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Asymp.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BandedWG.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BeeThree.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BiQuad.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Blit.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlitSaw.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlitSquare.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlowBotl.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/BlowHole.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Bowed.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Brass.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Chorus.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Clarinet.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Delay.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/DelayA.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/DelayL.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Drummer.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Echo.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Envelope.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FM.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FMVoices.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileLoop.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileRead.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileWrite.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileWvIn.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FileWvOut.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Fir.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Flute.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FormSwep.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/FreeVerb.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Granulate.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Guitar.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/HevyMetl.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Iir.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/InetWvIn.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/InetWvOut.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/JCRev.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/LentPitShift.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Mandolin.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Mesh2D.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Messager.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/MidiFileIn.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Modal.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/ModalBar.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Modulate.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Moog.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Mutex.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/NRev.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Noise.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/OnePole.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/OneZero.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PRCRev.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PercFlut.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Phonemes.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PitShift.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Plucked.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/PoleZero.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Recorder.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Resonate.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Rhodey.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtAudio.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtMidi.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtWvIn.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/RtWvOut.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Sampler.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Saxofony.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Shakers.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Simple.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/SineWave.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/SingWave.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Sitar.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Skini.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Socket.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Sphere.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/StifKarp.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Stk.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TapDelay.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TcpClient.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TcpServer.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Thread.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TubeBell.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Twang.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TwoPole.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/TwoZero.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/UdpSocket.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/VoicForm.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Voicer.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Whistle.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/src/Wurley.cpp">
+			<Option target="STK"/>
+		</Unit>
+		<Unit filename="/Users/jasons/Source/github/unity_audio_synth/Assets/cpp/LibStk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
