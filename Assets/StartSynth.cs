@@ -16,7 +16,7 @@ public class StartSynth : MonoBehaviour
         
         
     [DllImport(@"Assets/cpp/LibStk/cmake-build-debug/libSTK.dylib")]
-    public static extern void PlaySine(IntPtr psine, IntPtr dac);
+    public static extern void PlaySine(IntPtr psine, IntPtr dac, float freq);
 
     public Button m_YourFirstButton;
     public InputField m_InputField;
@@ -34,7 +34,8 @@ public class StartSynth : MonoBehaviour
 
     public void TaskOnClick()
     {
-        PlaySine(SineWaveFactory(), DacFactory());
+
+        PlaySine(SineWaveFactory(), DacFactory(), float.Parse(m_InputField.text));
     }
     
 

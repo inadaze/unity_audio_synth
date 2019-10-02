@@ -102,6 +102,7 @@
     <None Include="Assets\cpp\LibStk\cmake-build-debug\CMakeFiles\TargetDirectories.txt" />
     <None Include="Assets\cpp\LibStk\CMakeLists.txt" />
     <None Include="Assets\cpp\LibStk\doc\doxygen\filtering.txt" />
+    <None Include="Assets\cpp\TestLibrary\cmake-build-debug\CMakeFiles\clion-log.txt" />
     <None Include="Assets\cpp\LibStk\doc\doxygen\hello.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/jasons/Source/github/unity_audio_synth/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

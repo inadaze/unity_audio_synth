@@ -83,7 +83,7 @@ stk::SineWave* SineWaveFactory(){
 }
 
 
-void PlaySine(stk::SineWave* psine, stk::RtWvOut* pdac) {
+void PlaySine(stk::SineWave* psine, stk::RtWvOut* pdac, float freq) {
 
     stk::Generator::setSampleRate( 44100.0 );
     stk::Generator::showWarnings( true );
@@ -92,7 +92,7 @@ void PlaySine(stk::SineWave* psine, stk::RtWvOut* pdac) {
 
 
 
-    psine->setFrequency( 440 );
+    psine->setFrequency( freq );
     // Option 2: Single-sample computations
     for ( int i=0; i<nFrames; i++ ) {
         try {
@@ -102,6 +102,7 @@ void PlaySine(stk::SineWave* psine, stk::RtWvOut* pdac) {
             goto cleanup;
         }
     }
+
 
     cleanup:
         delete pdac;

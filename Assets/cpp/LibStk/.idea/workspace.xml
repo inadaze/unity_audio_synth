@@ -12,157 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c4566b0-25fd-4792-9d7b-d876dcc54eee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../.idea/.idea.unity_audio_synth/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/demo/.idea/.idea.demo/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestLibrary/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../StartSynth.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../StartSynth.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ToneObj.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../ToneObj.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LibStk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LibStk.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/html/Moog_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/doc/html/Moog_8h_source.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/RtAudio.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/RtAudio.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/RtWvOut.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/RtWvOut.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/libSTK.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/libSTK.dylib" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/include/SineWave.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/SineWave.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Stk.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Stk.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/Thread.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Thread.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/UdpSocket.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/UdpSocket.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/demo/tcl/Demo.tcl" beforeDir="false" afterPath="$PROJECT_DIR$/projects/demo/tcl/Demo.tcl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/ADSR.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/ADSR.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Asymp.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Asymp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BandedWG.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BandedWG.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BeeThree.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BeeThree.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BiQuad.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BiQuad.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Blit.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Blit.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BlitSaw.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BlitSaw.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BlitSquare.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BlitSquare.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BlowBotl.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BlowBotl.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/BlowHole.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/BlowHole.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Bowed.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Bowed.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Brass.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Brass.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Chorus.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Chorus.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Clarinet.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Clarinet.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Delay.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Delay.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/DelayA.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/DelayA.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/DelayL.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/DelayL.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Drummer.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Drummer.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Echo.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Echo.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Envelope.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Envelope.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FM.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FM.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FMVoices.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FMVoices.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FileLoop.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FileLoop.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FileRead.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FileRead.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FileWrite.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FileWrite.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FileWvIn.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FileWvIn.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FileWvOut.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FileWvOut.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Fir.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Fir.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Flute.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Flute.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FormSwep.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FormSwep.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/FreeVerb.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/FreeVerb.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Granulate.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Granulate.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Guitar.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Guitar.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/HevyMetl.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/HevyMetl.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Iir.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Iir.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/InetWvIn.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/InetWvIn.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/InetWvOut.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/InetWvOut.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/JCRev.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/JCRev.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/LentPitShift.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/LentPitShift.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Mandolin.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Mandolin.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Mesh2D.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Mesh2D.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Messager.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Messager.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/MidiFileIn.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/MidiFileIn.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Modal.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Modal.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/ModalBar.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/ModalBar.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Modulate.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Modulate.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Moog.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Moog.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Mutex.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Mutex.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/NRev.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/NRev.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Noise.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Noise.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/OnePole.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/OnePole.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/OneZero.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/OneZero.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/PRCRev.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/PRCRev.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/PercFlut.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/PercFlut.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Phonemes.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Phonemes.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/PitShift.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/PitShift.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Plucked.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Plucked.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/PoleZero.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/PoleZero.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Recorder.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Recorder.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Resonate.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Resonate.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Rhodey.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Rhodey.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/RtAudio.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/RtAudio.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/RtMidi.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/RtMidi.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/RtWvIn.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/RtWvIn.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/RtWvOut.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/RtWvOut.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Sampler.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Sampler.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Saxofony.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Saxofony.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Shakers.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Shakers.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Simple.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Simple.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/SineWave.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/SineWave.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/SingWave.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/SingWave.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Sitar.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Sitar.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Skini.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Skini.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Socket.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Socket.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Sphere.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Sphere.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/StifKarp.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/StifKarp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Stk.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Stk.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/TcpClient.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/TcpClient.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/TcpServer.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/TcpServer.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Thread.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Thread.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/TubeBell.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/TubeBell.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Twang.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Twang.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/TwoPole.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/TwoPole.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/TwoZero.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/TwoZero.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/UdpSocket.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/UdpSocket.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/VoicForm.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/VoicForm.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Voicer.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Voicer.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Whistle.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Whistle.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Debug/Wurley.o" beforeDir="false" afterPath="$PROJECT_DIR$/src/Debug/Wurley.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InetWvIn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/InetWvIn.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RtAudio.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/RtAudio.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RtWvOut.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/RtWvOut.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SineWave.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/SineWave.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Socket.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Socket.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TcpClient.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/TcpClient.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TcpServer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/TcpServer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UdpSocket.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/UdpSocket.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/Talker.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/Talker.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/library.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/library.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/TestLibrary.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/TestLibrary.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/TestLibrary.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/libTestLibrary.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/cmake-build-debug/libTestLibrary.dylib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/library.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestLibrary/library.h" beforeDir="false" afterPath="$PROJECT_DIR$/../TestLibrary/library.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/StateCache/Hierarchy/42a10a-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/StateCache/Hierarchy/42a10a-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/StateCache/SceneView/a8b992-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/StateCache/SceneView/a8b992-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/metadata/06/067ef5277a2c94e1c947f5e61d200a04" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/metadata/06/067ef5277a2c94e1c947f5e61d200a04" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/metadata/0d/0d452d43be7fd49e6b242e39f06f2acd" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/metadata/0d/0d452d43be7fd49e6b242e39f06f2acd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/metadata/43/43033adfc8b3e4e6593e3aa0acf5eb9f" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/metadata/43/43033adfc8b3e4e6593e3aa0acf5eb9f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/metadata/d3/d38e707988378431abb7d0406cf6f589" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/metadata/d3/d38e707988378431abb7d0406cf6f589" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/metadata/fa/fa9a7aaa9093c494bb14a31f38660dd3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/metadata/fa/fa9a7aaa9093c494bb14a31f38660dd3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +63,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="STK" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="STK" TARGET_NAME="STK" CONFIG_NAME="Debug" RUN_PATH="$USER_HOME$/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll">
+    <configuration name="STK" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="STK" TARGET_NAME="STK" CONFIG_NAME="Debug" RUN_PATH="/Applications/Unity/Hub/Editor/2019.1.3f1/Unity.app/Contents/MacOS/Unity">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -231,7 +84,8 @@
       <workItem from="1569525802215" duration="100000" />
       <workItem from="1569859418553" duration="1023000" />
       <workItem from="1569863265550" duration="3747000" />
-      <workItem from="1569934514782" duration="7405000" />
+      <workItem from="1569934514782" duration="7627000" />
+      <workItem from="1570021755355" duration="1792000" />
     </task>
     <servers />
   </component>
@@ -250,5 +104,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/SineWave.cpp</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

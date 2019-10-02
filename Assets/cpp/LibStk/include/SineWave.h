@@ -173,7 +173,7 @@ extern "C" {
 #  define MODULE_API
 #endif
 MODULE_API stk::SineWave* SineWaveFactory();
-MODULE_API void PlaySine(stk::SineWave* sine, stk::RtWvOut* dac);
+MODULE_API void PlaySine(stk::SineWave* sine, stk::RtWvOut* dac, float freq);
 
 #ifdef __cplusplus
 }

@@ -66,6 +66,13 @@
               </e>
             </e>
           </e>
+          <e p="TestLibrary" t="Include">
+            <e p="cmake-build-debug" t="Include">
+              <e p="CMakeFiles" t="Include">
+                <e p="clion-log.txt" t="Include" />
+              </e>
+            </e>
+          </e>
         </e>
         <e p="StartSynth.cs" t="Include" />
       </e>
